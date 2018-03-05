@@ -11,3 +11,5 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
 Suggests: testthat
+URL: http://github.com/*prenom.nom*/mypkg
+BugReports: http://github.com/*prenom.nom*/mypkg/issues

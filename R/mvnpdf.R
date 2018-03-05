@@ -31,8 +31,8 @@ mvnpdf <- function(x, mean =  rep(0, nrow(x)),
   Rinv <- solve(varcovM)
   LogDetvarcovM <- log(det(varcovM))
   cat("pouet \n")
-  cat("Ouuaiiiiiii\n")
-  cat("Je t'ai pirate!!!!")
+  cat("Ouuaiiiiiii \n")
+  cat("Je t'ai pirate!!!! \n")
 
   y <- NULL
   for (j in 1:n) {

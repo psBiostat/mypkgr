@@ -15,6 +15,7 @@ knitr::opts_chunk$set(
 # mypkgr
 
 The goal of mypkgr is to ...
+ahhhhhh
 
 ## Installation
 

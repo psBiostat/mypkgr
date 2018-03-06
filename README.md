@@ -5,7 +5,7 @@ mypkgr
 
 The goal of mypkgr is to hdksqhkh
 
-[![Travis-CI Build Status](https://travis-ci.org/*prenomnom*/mypkgr.svg?branch=master)](https://travis-ci.org/*prenomnom*/mypkgr)
+[![Travis-CI Build Status](https://travis-ci.org/*prenomnom*/mypkgr.svg?branch=master)](https://travis-ci.org/*perrinesoret*/mypkgr)
 
 Installation
 ------------

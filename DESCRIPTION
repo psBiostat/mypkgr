@@ -13,3 +13,5 @@ RoxygenNote: 6.0.1
 Suggests: testthat, mvtnorm
 URL: http://github.com/*prenom.nom*/mypkg
 BugReports: http://github.com/*prenom.nom*/mypkg/issues
+LinkingTo: Rcpp
+Imports: Rcpp
